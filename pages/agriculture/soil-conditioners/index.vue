@@ -1,0 +1,37 @@
+<template>
+    <div class="fullpage-wrapper" style="height: 100%; position: relative; touch-action: none; transform: translate3d(0px, 0px, 0px); transition: all 850ms ease 0s;">
+        <section class="Hero Hero--careers section fp-noscroll fp-auto-height-responsive fp-section fp-table complete video-loaded active fp-completely" data-anchor="Leko" leave="[object Object]" load="[object Object]" data-fp-styles="null" style="height: 878px;"><div class="fp-tableCell" style="height: 878px;"><div class="Hero-inner"><div class="Hero-innerer"><span class="Hero-label">ㅤ</span> <h2 class="Hero-title">Come build<br>the future with us.</h2> <div class="JobCTA"><div class="JobCTA-label">See the 2 open positions</div> <svg width="26" height="26" class="JobCTA-icon"><use xlink:href="/sprite.svg#arrow"></use></svg></div></div></div> <video src="//videos.ctfassets.net/fmhnbftl7a81/2gXqy38Ab6mYecG1lCZb7/f43f089fa08cae210c5b1f7ed1a4cc26/CAREERS_7210p.mp4" playsinline="" muted="muted" autoplay="autoplay" loop="loop" class="Hero-video video u-mediaFullSize u-mediaFullSize--absolute" style=""></video></div></section>
+            
+  
+        <div class="Project-content"><!----> 
+            <section class="Project-section Project-section--color1">
+                <div class="Project-sectionInner">
+                    <span class="Project-label Project-label--floating">Carbon footprint</span> 
+                    <h2 class="Project-title h2">-316 <small>TonCO₂eq</small></h2> 
+                    <span class="Project-sectionDetails">LEKO LABS : -316 TonCO₂eq<br>Concrete : 399 TonCO₂eq</span>
+                </div>
+            </section> 
+            <section class="Project-section Project-section--color3">
+                <div class="Project-sectionInner">
+                    <span class="Project-label Project-label--floating">Surface gain</span> 
+                    <h2 class="Project-title h2"><span>+</span>26 m²</h2> 
+                    <span class="Project-sectionDetails">LEKO : 734 m² living space <br>Concrete : 708 m² living space </span>
+                </div>
+            </section> 
+            <section class="Project-section Project-description Project-section--topLabel">
+                <div class="Project-sectionInner">
+                    <span class="Project-label Project-label--floating">Description</span> 
+                    <p class="Project-descriptionParagraph">High-end building whose name refers to the famous suitcase of Louis Vuitton, the Cotteville 45 (building at 45 rue de Strassen in Merl). Each apartment has a full floor with an exterior and direct access to the apartment via the elevator.</p> 
+                    <aside class="Project-sectionDetails">
+                        <dl class="Project-sectionDetailsList">
+                            <div class="Project-sectionDetailsListItem">
+                                <dt class="Project-label">Calendar</dt> 
+                                <dd>Ongoing</dd>
+                            </div> 
+                            <div class="Project-sectionDetailsListItem">
+                                <dt class="Project-label">Work</dt> 
+                                <dd>Design, Engineering, Manufacturing, Installation</dd>
+                            </div> 
+                            <div class="Project-sectionDetailsListItem"><dt class="Project-label">Location</dt> <dd>Merl • Luxembourg</dd></div> <div class="Project-sectionDetailsListItem"><dt class="Project-label">Surface</dt> <dd>734 m²</dd></div> <div class="Project-sectionDetailsListItem"><dt class="Project-label">Client</dt> <dd><a href="https://www.pnc.lu" target="_blank" rel="noreferer noopener">PNC</a></dd></div> <div class="Project-sectionDetailsListItem"><dt class="Project-label">Architects</dt> <dd><a href="http://www.archi.lu" target="_blank" rel="noreferer noopener">Boito Architectes</a></dd></div> <!----> <!----> <div class="Project-sectionDetailsListItem"><dt class="Project-label">3D Visualisations</dt> <dd><a href="https://www.bloomimages.de" target="_blank" rel="noreferer noopener">Bloomimages</a></dd></div> </dl></aside></div></section> <section class="Project-section Project-gallery"><div class="Gallery"><img src="//images.ctfassets.net/fmhnbftl7a81/54hJ9tso1Dc5PFNMRdH66W/9804a8d518c8fa43806c2131b50a21ba/LEKOLABS_MERL_03.jpg" class="u-mediaContain Gallery-mainImg"> <!----></div></section> <!----> <!----> <section class="Project-section Project-gallery"><div class="Gallery"><img src="//images.ctfassets.net/fmhnbftl7a81/67Y6j0YEBolOildl3oy4ij/11a12ce0eca9fded070275ec0a913922/LEKOLABS_MERL_02.jpg" class="u-mediaContain Gallery-mainImg"> <!----></div></section> <section class="Project-section Project-section--topLabel Project-nextProject"><div class="Project-sectionInner"><span class="Project-label Project-label--floating">Next projects</span> <div class="Project-sectionCards"><div class="Project-sectionCardsItem"><div class="ProjectCard"><div class="ProjectCard-media"><img class="u-mediaCover is-lazy is-loaded" src="//images.ctfassets.net/fmhnbftl7a81/6gUEQfIXTq22sDE4PLzEGl/af71e66cf388d526971e0a88f154beb0/LEKO_HABSCHT_02.jpg"> <!----></div> <div class="ProjectCard-content"><h2 class="ProjectCard-name"><span>Habscht</span></h2> <div class="ProjectCard-infos"><!----> <span data-status="completed" class="ProjectTag ProjectTag--status">Completed</span> <span data-category="multi-storey" class="ProjectTag ProjectTag--category">Multi-storey</span></div></div></div></div><div class="Project-sectionCardsItem"><div class="ProjectCard"><div class="ProjectCard-media"><img class="u-mediaCover is-lazy is-loaded" src="//images.ctfassets.net/fmhnbftl7a81/1bOvNF7SCmpvILY4jAeiS3/f8d06fd58664f94df544c6d8b8c881d6/Hobscheid_Chantier_3.jpg"> <!----></div> <div class="ProjectCard-content"><h2 class="ProjectCard-name"><span>Hobscheid</span></h2> <div class="ProjectCard-infos"><!----> <span data-status="completed" class="ProjectTag ProjectTag--status">Completed</span> <span data-category="single-family-home" class="ProjectTag ProjectTag--category">Single-family home</span></div></div></div></div><div class="Project-sectionCardsItem"><div class="ProjectCard"><div class="ProjectCard-media"><img class="u-mediaCover is-lazy is-loaded" src="//images.ctfassets.net/fmhnbftl7a81/1NepkHlBrpBjqPPb000Mk4/0fac5569f8e2b176ae484709415634bf/LEKO_Schweich_01.jpg"> <!----></div> <div class="ProjectCard-content"><h2 class="ProjectCard-name"><span>Schweich</span></h2> <div class="ProjectCard-infos"><!----> <span data-status="completed" class="ProjectTag ProjectTag--status">Completed</span> <span data-category="single-family-home" class="ProjectTag ProjectTag--category">Single-family home</span></div></div></div></div><div class="Project-sectionCardsItem"><div class="ProjectCard"><div class="ProjectCard-media"><img class="u-mediaCover is-lazy is-loaded" src="//images.ctfassets.net/fmhnbftl7a81/3WZkR1IkTOn4vP3RSDh1u0/9e81f4872df624861f03f048942810bc/Gosseldange_1.jpg"> <!----></div> <div class="ProjectCard-content"><h2 class="ProjectCard-name"><span>Gosseldange</span></h2> <div class="ProjectCard-infos"><!----> <span data-status="completed" class="ProjectTag ProjectTag--status">Completed</span> <span data-category="multi-storey" class="ProjectTag ProjectTag--category">Multi-storey</span></div></div></div></div></div></div></section></div>
+    </div>
+</template>
